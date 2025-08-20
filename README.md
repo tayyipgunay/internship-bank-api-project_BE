@@ -1,7 +1,6 @@
 
 
-<tool_call>
-<invoke name="edit_file" explanation="Öğrenci yazmış gibi profesyonel README.md dosyası oluşturuyorum">
+
 <parameter name="target_file">README.md</parameter>
 <instructions>Öğrenci yazmış gibi profesyonel ve detaylı README.md dosyası oluşturuyorum</parameter>
 <code_edit># 🏦 Bank API - Microservice Banking System
