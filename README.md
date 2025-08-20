@@ -1,6 +1,4 @@
-## �� **ÖĞRENCİ YAZMIŞ GİBİ README.MD OLUŞTURUYORUM!**
 
-Şimdi proje için profesyonel bir README.md dosyası oluşturayım:
 
 <tool_call>
 <invoke name="edit_file" explanation="Öğrenci yazmış gibi profesyonel README.md dosyası oluşturuyorum">
